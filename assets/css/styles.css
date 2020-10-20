@@ -9,3 +9,19 @@
   font-family: cursive;
   font-weight: bold;
 }
+
+.dark-background {
+  background-color: darkgray;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+.pHighlight {
+  background-color: yellow;
+  border: 3px dotted black;
+  padding: 10px;
+}
